@@ -144,3 +144,6 @@
 
 ### 판매 상품 관리
 <img src = "exec/seller_store.gif">
+
+## ERD
+<img src = "exec/ERD.png">
