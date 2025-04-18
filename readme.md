@@ -15,9 +15,9 @@
 >**실제로 IT 솔루션이 많이 진출하지 않은 분야고 그렇기에 반대로 가능성이 있는 시장이라고 판단 하여 프로젝트를 진행하였습니다.**
 
 ### 프로젝트 실천
->**해당 프로젝트는 기획 과정에서 부산 서면, 양산에 위치한 꽃집의 사장님, 직원 분들과 3차례의 인터뷰를 통해 개선점 및 수요를 조사하여 서비스를 기획하였습니다.**
+>**해당 프로젝트는 기획 과정에서 부산 서면, 양산에 위치한 꽃집의 사장님, 직원 분들과 매주 현장 조사를 통해 요구사항, 수요, 피드백을 조사 및 반영하며 프로젝트를 진행했습니다.**
 >
->**실제로 부산 강서구 삼성 전기 및 서면에 위치한 꽃집에서 각각 6시간 서비스 제공하였고 구글폼을 이용한 피드백을 바탕으로 기능을 수정하였습니다.**
+>**실제로 부산 강서구 삼성 전기 및 서면에 위치한 꽃집에서 각각 6시간 서비스 제공하였고 구글폼을 이용한 피드백을 받았고, 116명의 이용자 중 105명의 만족과 재사용 의사를 받았습니다.**
 
 
 
@@ -59,8 +59,8 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jason%20web%20tokens&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img  src="https://img.shields.io/badge/Spring Security-FF9900?style=for-the-badge&logo=Spring Security&logoColor=white"> 
-<img  src="https://img.shields.io/badge/INTELLIJ IDEA-2C2255?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
+<img  src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
+<img  src="https://img.shields.io/badge/INTELLIJ-IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-007DA3?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
@@ -68,7 +68,6 @@
 <img src="https://img.shields.io/badge/recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/redis-F71C1C?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white"> 
@@ -87,13 +86,13 @@
 
 - **JWT** : JSON Web Token을 활용하여 회원 인증 및 안정성있는 정보 교환을 할 수 있도록 활용.
 
-- JPA (Hibernate)
+- **JPA (Hibernate)**
 
   : ORM인 Hibernate를 활용하여 객체 중심의 개발을 할 수 있도록 하였고, SQL을 직접 작성하지 않고 Entity 필드가 되는 객체를 통해 DB를 동작시켜 유지보수에 용이하게 활용.
 
   - 동일한 쿼리에 대한 캐시 기능을 사용하기 때문에 높은 효율성 기대
 
-- SSL 프로토콜
+- **SSL 프로토콜**
 
   : SSL을 적용하여 전송되는 패킷값을 암호화하여 외부의 공격자로부터 데이터를 보안하기 위해 사용.
 
