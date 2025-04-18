@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jason%20web%20tokens&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img  src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
-<img  src="https://img.shields.io/badge/INTELLIJ-IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+<img  src="https://img.shields.io/badge/INTELLIJ IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-007DA3?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
